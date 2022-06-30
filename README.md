@@ -34,3 +34,6 @@ Once answering all 5 questions, it will bring you to the end screen, showing you
 Here is the highscores page, allowing you to view and/or clear them.
 
 ![highscore](https://user-images.githubusercontent.com/97704426/176334397-611344b2-73db-4693-858c-21d4e2acf353.JPG)
+
+Here is a link to the live website
+https://kevnikica.github.io/Coding-Quiz/
